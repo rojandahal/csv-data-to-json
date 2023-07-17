@@ -6,10 +6,10 @@
     "Room": "LB 103",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "Algebra and Geometry (YRG) LB 103",
-      "8:20 9:10": "Algebra and Geometry (YRG) LB 103",
-      "9:10 10:00": "Instrumentation SuB LB 203",
-      "10:00 10:50": "Instrumentation SuB LB 203",
+      "7:30 8:20": "Algebra and Geometry (YRG)",
+      "8:20 9:10": "Algebra and Geometry (YRG)",
+      "9:10 10:00": "Instrumentation SuB",
+      "10:00 10:50": "Instrumentation SuB",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Applied Physics LB103 (RKB)",
       "12:30 1:20": "Applied Physics LB103 (RKB)",
@@ -24,10 +24,10 @@
     "Room": "LB 103",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "Algebra and Geometry (YRG) LB 103",
-      "8:20 9:10": "Algebra and Geometry (YRG) LB 103",
-      "9:10 10:00": "Instrumentation SuB LB 203",
-      "10:00 10:50": "Instrumentation SuB LB 203",
+      "7:30 8:20": "Algebra and Geometry (YRG)",
+      "8:20 9:10": "Algebra and Geometry (YRG)",
+      "9:10 10:00": "Instrumentation SuB",
+      "10:00 10:50": "Instrumentation SuB",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Applied Physics LB103 (RKB)",
       "12:30 1:20": "Applied Physics LB103 (RKB)",
@@ -78,15 +78,15 @@
     "Room": "LB 101",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "Logic Ckt (LB 101) RKP",
-      "8:20 9:10": "Logic Ckt (LB 101) RKP",
-      "9:10 10:00": "Math (LB 101) BPB",
-      "10:00 10:50": "Math (LB 101) BPB",
+      "7:30 8:20": "Logic Ckt () RKP",
+      "8:20 9:10": "Logic Ckt () RKP",
+      "9:10 10:00": "Math () BPB",
+      "10:00 10:50": "Math () BPB",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "DSA (LB 101) GS",
-      "12:30 1:20": "DSA (LB 101) GS",
-      "1:20 2:05": "EEM (LB 101) YRP",
-      "2:05 2:50": "EEM (LB 101) YRP"
+      "11:40 12:30": "DSA () GS",
+      "12:30 1:20": "DSA () GS",
+      "1:20 2:05": "EEM () YRP",
+      "2:05 2:50": "EEM () YRP"
     }
   },
   {
@@ -96,15 +96,15 @@
     "Room": "LB 101",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "Logic Ckt (LB 101) RKP",
-      "8:20 9:10": "Logic Ckt (LB 101) RKP",
-      "9:10 10:00": "Math (LB 101) BPB",
-      "10:00 10:50": "Math (LB 101) BPB",
+      "7:30 8:20": "Logic Ckt () RKP",
+      "8:20 9:10": "Logic Ckt () RKP",
+      "9:10 10:00": "Math () BPB",
+      "10:00 10:50": "Math () BPB",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "DSA (LB 101) GS",
-      "12:30 1:20": "DSA (LB 101) GS",
-      "1:20 2:05": "EEM (LB 101) YRP",
-      "2:05 2:50": "EEM (LB 101) YRP"
+      "11:40 12:30": "DSA () GS",
+      "12:30 1:20": "DSA () GS",
+      "1:20 2:05": "EEM () YRP",
+      "2:05 2:50": "EEM () YRP"
     }
   },
   {
@@ -114,15 +114,15 @@
     "Room": "LB 102",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "EDC (LB 102) AY",
-      "8:20 9:10": "DSA (LB 102) JT",
-      "9:10 10:00": "Logic Ckt (LB 102) DPG",
-      "10:00 10:50": "Logic Ckt (LB 102) DPG",
+      "7:30 8:20": "EDC () AY",
+      "8:20 9:10": "DSA () JT",
+      "9:10 10:00": "Logic Ckt () DPG",
+      "10:00 10:50": "Logic Ckt () DPG",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Network Theory (Lab) BP",
       "12:30 1:20": "Network Theory (Lab) BP",
-      "1:20 2:05": "Math (LB 102) BPB/UB",
-      "2:05 2:50": "Math (LB 102) BPB/UB"
+      "1:20 2:05": "Math () BPB/UB",
+      "2:05 2:50": "Math () BPB/UB"
     }
   },
   {
@@ -132,15 +132,15 @@
     "Room": "LB 102",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "EDC (LB 102) AY",
-      "8:20 9:10": "DSA (LB 102) JT",
-      "9:10 10:00": "Logic Ckt (LB 102) DPG",
-      "10:00 10:50": "Logic Ckt (LB 102) DPG",
+      "7:30 8:20": "EDC () AY",
+      "8:20 9:10": "DSA () JT",
+      "9:10 10:00": "Logic Ckt () DPG",
+      "10:00 10:50": "Logic Ckt () DPG",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "DSA (Lab 4) JT + SuB",
       "12:30 1:20": "DSA (Lab 4) JT + SuB",
-      "1:20 2:05": "Math (LB 102) BPB/UB",
-      "2:05 2:50": "Math (LB 102) BPB/UB"
+      "1:20 2:05": "Math () BPB/UB",
+      "2:05 2:50": "Math () BPB/UB"
     }
   },
   {
@@ -330,13 +330,13 @@
     "Room": "022 Comp II",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "DSA GBK-LB 101",
-      "8:20 9:10": "DSA GBK-LB 101",
+      "7:30 8:20": "DSA GBK-",
+      "8:20 9:10": "DSA GBK-",
       "9:10 10:00": "Instrumentation Lab SuB",
       "10:00 10:50": "Instrumentation Lab SuB",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "OOP TCS-LB 103",
-      "12:30 1:20": "OOP TCS-LB 103",
+      "11:40 12:30": "OOP TCS-",
+      "12:30 1:20": "OOP TCS-",
       "1:20 2:05": "OOP Lab 2 TCS+MM",
       "2:05 2:50": "OOP Lab 2 TCS+MM"
     }
@@ -348,13 +348,13 @@
     "Room": "022 Comp II",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "DSA GBK-LB 101",
-      "8:20 9:10": "DSA GBK-LB 101",
+      "7:30 8:20": "DSA GBK-",
+      "8:20 9:10": "DSA GBK-",
       "9:10 10:00": "OOP Lab 2 TCS+MM",
       "10:00 10:50": "OOP Lab 2 TCS+MM",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "OOP TCS-LB 103",
-      "12:30 1:20": "OOP TCS-LB 103",
+      "11:40 12:30": "OOP TCS-",
+      "12:30 1:20": "OOP TCS-",
       "1:20 2:05": "DSA Lab 7 GBK+",
       "2:05 2:50": "DSA Lab 7 GBK+"
     }
@@ -366,7 +366,7 @@
     "Room": "SC-2",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "Applied Chemistry SC-2",
+      "7:30 8:20": "Applied Chemistry",
       "8:20 9:10": "Applied Physics \nSC2 (YRP)",
       "9:10 10:00": "OOP AG-SC2",
       "10:00 10:50": "OOP AG-SC2",
@@ -384,7 +384,7 @@
     "Room": "SC-2",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "Applied Chemistry SC-2",
+      "7:30 8:20": "Applied Chemistry",
       "8:20 9:10": "Applied Physics \nSC2 (YRP)",
       "9:10 10:00": "OOP AG-SC2",
       "10:00 10:50": "OOP AG-SC2",
@@ -404,11 +404,11 @@
     "classes": {
       "7:30 8:20": "DSA (Lab 4) GS + JT",
       "8:20 9:10": "DSA (Lab 4) GS + JT",
-      "9:10 10:00": "Network Theory (LB 101) AS",
-      "10:00 10:50": "Network Theory (LB 101) AS",
+      "9:10 10:00": "Network Theory () AS",
+      "10:00 10:50": "Network Theory () AS",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Math (LB 101) BPB",
-      "12:30 1:20": "Math (LB 101) BPB",
+      "11:40 12:30": "Math () BPB",
+      "12:30 1:20": "Math () BPB",
       "1:20 2:05": "Logic Ckt (Lab) RKP",
       "2:05 2:50": "Logic Ckt (Lab) RKP"
     }
@@ -422,11 +422,11 @@
     "classes": {
       "7:30 8:20": "Network Theory (Lab) BP",
       "8:20 9:10": "Network Theory (Lab) BP",
-      "9:10 10:00": "Network Theory (LB 101) AS",
-      "10:00 10:50": "Network Theory (LB 101) AS",
+      "9:10 10:00": "Network Theory () AS",
+      "10:00 10:50": "Network Theory () AS",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Math (LB 101) BPB",
-      "12:30 1:20": "Math (LB 101) BPB",
+      "11:40 12:30": "Math () BPB",
+      "12:30 1:20": "Math () BPB",
       "1:20 2:05": "DSA (Lab 4) GS+TRO",
       "2:05 2:50": "DSA (Lab 4) GS+TRO"
     }
@@ -438,15 +438,15 @@
     "Room": "LB 102",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "Math (LB 102) UB",
-      "8:20 9:10": "Math (LB 102) UB",
-      "9:10 10:00": "\nEDC (LB 102 ) AY",
-      "10:00 10:50": "\nEDC (LB 102 ) AY",
+      "7:30 8:20": "Math () UB",
+      "8:20 9:10": "Math () UB",
+      "9:10 10:00": "EDC ( ) AY",
+      "10:00 10:50": "EDC ( ) AY",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM(LB 102) LNP",
-      "12:30 1:20": "EEM(LB 102) LNP",
-      "1:20 2:05": "DSA (LB 102) JT",
-      "2:05 2:50": "DSA (LB 102) JT"
+      "11:40 12:30": "EEM() LNP",
+      "12:30 1:20": "EEM() LNP",
+      "1:20 2:05": "DSA () JT",
+      "2:05 2:50": "DSA () JT"
     }
   },
   {
@@ -456,15 +456,15 @@
     "Room": "LB 102",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "Math (LB 102) UB",
-      "8:20 9:10": "Math (LB 102) UB",
-      "9:10 10:00": "\nEDC (LB 102 ) AY",
-      "10:00 10:50": "\nEDC (LB 102 ) AY",
+      "7:30 8:20": "Math () UB",
+      "8:20 9:10": "Math () UB",
+      "9:10 10:00": "EDC ( ) AY",
+      "10:00 10:50": "EDC ( ) AY",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM(LB 102) LNP",
-      "12:30 1:20": "EEM(LB 102) LNP",
-      "1:20 2:05": "DSA (LB 102) JT",
-      "2:05 2:50": "DSA (LB 102) JT"
+      "11:40 12:30": "EEM() LNP",
+      "12:30 1:20": "EEM() LNP",
+      "1:20 2:05": "DSA () JT",
+      "2:05 2:50": "DSA () JT"
     }
   },
   {
@@ -548,8 +548,8 @@
     "classes": {
       "7:30 8:20": "Embedded System [DPG]",
       "8:20 9:10": "Embedded System [DPG]",
-      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
-      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
+      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
+      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Simulation & Modeling  [SK]",
       "12:30 1:20": "Simulation & Modeling  [SK]",
@@ -566,8 +566,8 @@
     "classes": {
       "7:30 8:20": "Embedded System [DPG]",
       "8:20 9:10": "Embedded System [DPG]",
-      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
-      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
+      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
+      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Simulation & Modeling  [SK]",
       "12:30 1:20": "Simulation & Modeling  [SK]",
@@ -584,8 +584,8 @@
     "classes": {
       "7:30 8:20": "Simulation & Modeling  [SB]",
       "8:20 9:10": "Simulation & Modeling  [SB]",
-      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
-      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
+      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
+      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Embedded System (Lab 7) [DPG]",
       "12:30 1:20": "Embedded System (Lab 7) [DPG]",
@@ -602,8 +602,8 @@
     "classes": {
       "7:30 8:20": "Simulation & Modeling  [SB]",
       "8:20 9:10": "Simulation & Modeling  [SB]",
-      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
-      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM-LB 202 ]",
+      "9:10 10:00": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
+      "10:00 10:50": "ELECTIVE  \n[NPD-LB PR] [MRU-LB 201] \n[BM- ]",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "OOSE (Lab 1 ) [IP][MM] ",
       "12:30 1:20": "OOSE (Lab 1 ) [IP][MM] ",
@@ -654,13 +654,13 @@
     "Room": "022 Comp II",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "DSA GBK LB 101",
-      "8:20 9:10": "DSA GBK LB 101",
-      "9:10 10:00": "OOP TCS LB 102",
-      "10:00 10:50": "OOP TCS LB 102",
+      "7:30 8:20": "DSA GBK",
+      "8:20 9:10": "DSA GBK",
+      "9:10 10:00": "OOP TCS",
+      "10:00 10:50": "OOP TCS",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Algebra and Geometry (UB) LB 101",
-      "12:30 1:20": "Algebra and Geometry (UB) LB 101",
+      "11:40 12:30": "Algebra and Geometry (UB)",
+      "12:30 1:20": "Algebra and Geometry (UB)",
       "1:20 2:05": "DSA Lab 2 GBK+SuB",
       "2:05 2:50": "DSA Lab 2 GBK+SuB"
     }
@@ -672,13 +672,13 @@
     "Room": "022 Comp II",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "DSA GBK LB 101",
-      "8:20 9:10": "DSA GBK LB 101",
-      "9:10 10:00": "OOP TCS LB 102",
-      "10:00 10:50": "OOP TCS LB 102",
+      "7:30 8:20": "DSA GBK",
+      "8:20 9:10": "DSA GBK",
+      "9:10 10:00": "OOP TCS",
+      "10:00 10:50": "OOP TCS",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Algebra and Geometry (UB) LB 101",
-      "12:30 1:20": "Algebra and Geometry (UB) LB 101",
+      "11:40 12:30": "Algebra and Geometry (UB)",
+      "12:30 1:20": "Algebra and Geometry (UB)",
       "1:20 2:05": "OOP Lab 1 TCS+AG",
       "2:05 2:50": "OOP Lab 1 TCS+AG"
     }
@@ -690,10 +690,10 @@
     "Room": "SC-2",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "Algebra and Geometry (YRG) SC-2",
-      "8:20 9:10": "Algebra and Geometry (YRG) SC-2",
-      "9:10 10:00": "DSA NPD-SC-2",
-      "10:00 10:50": "DSA NPD-SC-2",
+      "7:30 8:20": "Algebra and Geometry (YRG)",
+      "8:20 9:10": "Algebra and Geometry (YRG)",
+      "9:10 10:00": "DSA NPD-",
+      "10:00 10:50": "DSA NPD-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "OOP Lab 3 AG+DKD",
       "12:30 1:20": "OOP Lab 3 AG+DKD",
@@ -708,10 +708,10 @@
     "Room": "SC-2",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "Algebra and Geometry (YRG) SC-2",
-      "8:20 9:10": "Algebra and Geometry (YRG) SC-2",
-      "9:10 10:00": "DSA NPD-SC-2",
-      "10:00 10:50": "DSA NPD-SC-2",
+      "7:30 8:20": "Algebra and Geometry (YRG)",
+      "8:20 9:10": "Algebra and Geometry (YRG)",
+      "9:10 10:00": "DSA NPD-",
+      "10:00 10:50": "DSA NPD-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "DSA Lab 2 NPD+ GBK",
       "12:30 1:20": "DSA Lab 2 NPD+ GBK",
@@ -728,8 +728,8 @@
     "classes": {
       "7:30 8:20": "Network Theory (Lab) BP",
       "8:20 9:10": "Network Theory (Lab) BP",
-      "9:10 10:00": "Logic Ckt RKP (LB 101)",
-      "10:00 10:50": "EDC (LB 101) AY",
+      "9:10 10:00": "Logic Ckt RKP ()",
+      "10:00 10:50": "EDC () AY",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "DSA (Lab 4) GS + JT",
       "12:30 1:20": "DSA (Lab 4) GS + JT",
@@ -746,8 +746,8 @@
     "classes": {
       "7:30 8:20": "EDC lab AY",
       "8:20 9:10": "EDC lab AY",
-      "9:10 10:00": "Logic Ckt RKP (LB 101)",
-      "10:00 10:50": "EDC (LB 101) AY",
+      "9:10 10:00": "Logic Ckt RKP ()",
+      "10:00 10:50": "EDC () AY",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Logic Ckt (Lab) RKP",
       "12:30 1:20": "Logic Ckt (Lab) RKP",
@@ -762,15 +762,15 @@
     "Room": "LB 102",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "DSA (LB 102) JT",
-      "8:20 9:10": "DSA (LB 102) JT",
+      "7:30 8:20": "DSA () JT",
+      "8:20 9:10": "DSA () JT",
       "9:10 10:00": "DSA (Lab 4) JT + GBK",
-      "10:00 10:50": "EDC (LB 101) AY",
+      "10:00 10:50": "EDC () AY",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM (LB 102) YRP",
-      "12:30 1:20": "EEM (LB 102) YRP",
+      "11:40 12:30": "EEM () YRP",
+      "12:30 1:20": "EEM () YRP",
       "1:20 2:05": "Network Theory BP",
-      "2:05 2:50": "Logic Ckt DPG(LB 102)"
+      "2:05 2:50": "Logic Ckt DPG()"
     }
   },
   {
@@ -780,15 +780,15 @@
     "Room": "LB 102",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "DSA (LB 102) JT",
-      "8:20 9:10": "DSA (LB 102) JT",
+      "7:30 8:20": "DSA () JT",
+      "8:20 9:10": "DSA () JT",
       "9:10 10:00": "Logic Ckt (Lab) DPG",
-      "10:00 10:50": "EDC (LB 101) AY",
+      "10:00 10:50": "EDC () AY",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM (LB 102) YRP",
-      "12:30 1:20": "EEM (LB 102) YRP",
+      "11:40 12:30": "EEM () YRP",
+      "12:30 1:20": "EEM () YRP",
       "1:20 2:05": "Network Theory BP",
-      "2:05 2:50": "Logic Ckt DPG(LB 102)"
+      "2:05 2:50": "Logic Ckt DPG()"
     }
   },
   {
@@ -978,15 +978,15 @@
     "Room": "022 Comp II",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "Instrumentation  LB 204 SuB",
-      "8:20 9:10": "Algebra (UB) LB 204",
+      "7:30 8:20": "Instrumentation   SuB",
+      "8:20 9:10": "Algebra (UB)",
       "9:10 10:00": "OOP Lab 1 TCS+AG",
       "10:00 10:50": "OOP Lab 1 TCS+AG",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Applied Chemistry Lab",
       "12:30 1:20": "Applied Chemistry Lab",
-      "1:20 2:05": "Applied Physics \nLB 204 (YRP)",
-      "2:05 2:50": "Applied Chemistry \nLB 204"
+      "1:20 2:05": "Applied Physics \n (YRP)",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -996,15 +996,15 @@
     "Room": "022 Comp II",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "Instrumentation  LB 204 SuB",
-      "8:20 9:10": "Algebra (UB) LB 204",
+      "7:30 8:20": "Instrumentation   SuB",
+      "8:20 9:10": "Algebra (UB)",
       "9:10 10:00": "DSA Lab 2 GBK+SuB",
       "10:00 10:50": "DSA Lab 2 GBK+SuB",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Applied Physics Lab",
       "12:30 1:20": "Applied Physics Lab",
-      "1:20 2:05": "Applied Physics \nLB 204 (YRP)",
-      "2:05 2:50": "Applied Chemistry \nLB 204"
+      "1:20 2:05": "Applied Physics \n (YRP)",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1015,14 +1015,14 @@
     "Group": "C",
     "classes": {
       "7:30 8:20": "OOP Lab 4 AG+DKD",
-      "8:20 9:10": "Algebra (UB) LB 204",
-      "9:10 10:00": "Applied Physics \nSC-2 (LNP)",
-      "10:00 10:50": "Applied Chemistry \nSC-2",
+      "8:20 9:10": "Algebra (UB)",
+      "9:10 10:00": "Applied Physics \n (LNP)",
+      "10:00 10:50": "Applied Chemistry",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Applied Chemistry SC-2",
-      "12:30 1:20": "Instrumentation \nSuB SC-2",
-      "1:20 2:05": "Algebra and Geometry (UB) SC-2",
-      "2:05 2:50": "Applied Chemistry \nLB 204"
+      "11:40 12:30": "Applied Chemistry",
+      "12:30 1:20": "Instrumentation \nSuB",
+      "1:20 2:05": "Algebra and Geometry (UB)",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1033,14 +1033,14 @@
     "Group": "D",
     "classes": {
       "7:30 8:20": "DSA Lab 2 NPD+ GBK",
-      "8:20 9:10": "Algebra (UB) LB 204",
-      "9:10 10:00": "Applied Physics \nSC-2 (LNP)",
-      "10:00 10:50": "Applied Chemistry \nSC-2",
+      "8:20 9:10": "Algebra (UB)",
+      "9:10 10:00": "Applied Physics \n (LNP)",
+      "10:00 10:50": "Applied Chemistry",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "Applied Chemistry SC-2",
-      "12:30 1:20": "Instrumentation \nSuB SC-2",
-      "1:20 2:05": "Algebra and Geometry (UB) SC-2",
-      "2:05 2:50": "Applied Chemistry \nLB 204"
+      "11:40 12:30": "Applied Chemistry",
+      "12:30 1:20": "Instrumentation \nSuB",
+      "1:20 2:05": "Algebra and Geometry (UB)",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1050,15 +1050,15 @@
     "Room": "LB 101",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "EDC (LB 101) AY",
-      "8:20 9:10": "EDC (LB 101) AY",
-      "9:10 10:00": "Math (LB 101) UB",
-      "10:00 10:50": "Math (LB 101) UB",
+      "7:30 8:20": "EDC () AY",
+      "8:20 9:10": "EDC () AY",
+      "9:10 10:00": "Math () UB",
+      "10:00 10:50": "Math () UB",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM (LB 101) LNP",
-      "12:30 1:20": "EEM (LB 101) LNP",
-      "1:20 2:05": "Network Theory (LB 101) BP",
-      "2:05 2:50": "Network Theory (LB 101) BP"
+      "11:40 12:30": "EEM () LNP",
+      "12:30 1:20": "EEM () LNP",
+      "1:20 2:05": "Network Theory () BP",
+      "2:05 2:50": "Network Theory () BP"
     }
   },
   {
@@ -1068,15 +1068,15 @@
     "Room": "LB 101",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "EDC (LB 101) AY",
-      "8:20 9:10": "EDC (LB 101) AY",
-      "9:10 10:00": "Math (LB 101) UB",
-      "10:00 10:50": "Math (LB 101) UB",
+      "7:30 8:20": "EDC () AY",
+      "8:20 9:10": "EDC () AY",
+      "9:10 10:00": "Math () UB",
+      "10:00 10:50": "Math () UB",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EEM (LB 101) LNP",
-      "12:30 1:20": "EEM (LB 101) LNP",
-      "1:20 2:05": "Network Theory (LB 101) BP",
-      "2:05 2:50": "Network Theory (LB 101) BP"
+      "11:40 12:30": "EEM () LNP",
+      "12:30 1:20": "EEM () LNP",
+      "1:20 2:05": "Network Theory () BP",
+      "2:05 2:50": "Network Theory () BP"
     }
   },
   {
@@ -1086,8 +1086,8 @@
     "Room": "LB 102",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "Network Theory (LB 102) BP",
-      "8:20 9:10": "Network Theory (LB 102) BP",
+      "7:30 8:20": "Network Theory () BP",
+      "8:20 9:10": "Network Theory () BP",
       "9:10 10:00": "DSA (Lab 4) JT + DD",
       "10:00 10:50": "DSA (Lab 4) JT + DD",
       "10:50 11:40": "BREAK",
@@ -1104,8 +1104,8 @@
     "Room": "LB 102",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "Network Theory (LB 102) BP",
-      "8:20 9:10": "Network Theory (LB 102) BP",
+      "7:30 8:20": "Network Theory () BP",
+      "8:20 9:10": "Network Theory () BP",
       "9:10 10:00": "EDC lab AY",
       "10:00 10:50": "EDC lab AY",
       "10:50 11:40": "BREAK",
@@ -1199,8 +1199,8 @@
       "9:10 10:00": "Simulation & Modeling  [SK]",
       "10:00 10:50": "Simulation & Modeling  [SK]",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
-      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
+      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
+      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
       "1:20 2:05": "Data Communication [DD]",
       "2:05 2:50": "Data Communication [DD]"
     }
@@ -1217,8 +1217,8 @@
       "9:10 10:00": "Simulation & Modeling  [SK]",
       "10:00 10:50": "Simulation & Modeling  [SK]",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
-      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
+      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
+      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
       "1:20 2:05": "Data Communication [DD]",
       "2:05 2:50": "Data Communication [DD]"
     }
@@ -1235,8 +1235,8 @@
       "9:10 10:00": "Embedded System  [DPG]",
       "10:00 10:50": "Embedded System  [DPG]",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
-      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
+      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
+      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
       "1:20 2:05": "OOSE (Lab 5) [IP][MM]",
       "2:05 2:50": "OOSE (Lab 5) [IP][MM]"
     }
@@ -1253,8 +1253,8 @@
       "9:10 10:00": "Embedded System  [DPG]",
       "10:00 10:50": "Embedded System  [DPG]",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
-      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ]",
+      "11:40 12:30": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
+      "12:30 1:20": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM- ]",
       "1:20 2:05": "Embedded System (Lab 7) [DPG]",
       "2:05 2:50": "Embedded System (Lab 7) [DPG]"
     }
@@ -1305,12 +1305,12 @@
       "7:30 8:20": "Basic Engineering Drawing ( JKT/PPA)",
       "8:20 9:10": "Basic Engineering Drawing ( JKT/PPA)",
       "9:10 10:00": "Basic Engineering Drawing ( JKT/PPA)",
-      "10:00 10:50": "Applied Physics\n LB 201 (LNP)",
+      "10:00 10:50": "Applied Physics\n  (LNP)",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Applied Physics Lab",
       "12:30 1:20": "Applied Physics Lab",
-      "1:20 2:05": "Applied Chemistry LB 203",
-      "2:05 2:50": "Applied Chemistry LB 203"
+      "1:20 2:05": "Applied Chemistry",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1323,12 +1323,12 @@
       "7:30 8:20": "Basic Engineering Drawing ( GSB/PB)",
       "8:20 9:10": "Basic Engineering Drawing ( GSB/PB)",
       "9:10 10:00": "Basic Engineering Drawing ( GSB/PB)",
-      "10:00 10:50": "Applied Physics\n LB 201 (LNP)",
+      "10:00 10:50": "Applied Physics\n  (LNP)",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Instrumentation Lab SuB",
       "12:30 1:20": "Instrumentation Lab SuB",
-      "1:20 2:05": "Applied Chemistry LB 203",
-      "2:05 2:50": "Applied Chemistry LB 203"
+      "1:20 2:05": "Applied Chemistry",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1341,12 +1341,12 @@
       "7:30 8:20": "Applied Physics SC2 (RKB)",
       "8:20 9:10": "Applied Physics SC2 (RKB)",
       "9:10 10:00": "Instrumentation SuB SC2",
-      "10:00 10:50": "Applied Physics\n LB 201 (LNP)",
+      "10:00 10:50": "Applied Physics\n  (LNP)",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Algebra and Geometry\n (UB)SC2",
       "12:30 1:20": "Basic Engineering Drawing ( JKT/PPA)",
-      "1:20 2:05": "Applied Chemistry LB 203",
-      "2:05 2:50": "Applied Chemistry LB 203"
+      "1:20 2:05": "Applied Chemistry",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1359,12 +1359,12 @@
       "7:30 8:20": "Applied Physics SC2 (RKB)",
       "8:20 9:10": "Applied Physics SC2 (RKB)",
       "9:10 10:00": "Instrumentation SuB SC2",
-      "10:00 10:50": "Applied Physics\n LB 201 (LNP)",
+      "10:00 10:50": "Applied Physics\n  (LNP)",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Algebra and Geometry\n (UB)SC2",
       "12:30 1:20": "Basic Engineering Drawing ( GSB/ArS)",
-      "1:20 2:05": "Applied Chemistry LB 203",
-      "2:05 2:50": "Applied Chemistry LB 203"
+      "1:20 2:05": "Applied Chemistry",
+      "2:05 2:50": "Applied Chemistry"
     }
   },
   {
@@ -1374,15 +1374,15 @@
     "Room": "LB 101",
     "Group": "A",
     "classes": {
-      "7:30 8:20": "Logic Ckt (LB 101) RKP",
-      "8:20 9:10": "Logic Ckt (LB 101) RKP",
-      "9:10 10:00": "DSA (LB 101) GS",
+      "7:30 8:20": "Logic Ckt () RKP",
+      "8:20 9:10": "Logic Ckt () RKP",
+      "9:10 10:00": "DSA () GS",
       "10:00 10:50": "BREAK",
-      "10:50 11:40": "Network Theory (LB 101) BP",
-      "11:40 12:30": "DSA (LB 101) GS",
-      "12:30 1:20": "DSA (LB 101) GS",
-      "1:20 2:05": "EDC (LB 101) AY",
-      "2:05 2:50": "EDC (LB 101) AY"
+      "10:50 11:40": "Network Theory () BP",
+      "11:40 12:30": "DSA () GS",
+      "12:30 1:20": "DSA () GS",
+      "1:20 2:05": "EDC () AY",
+      "2:05 2:50": "EDC () AY"
     }
   },
   {
@@ -1392,15 +1392,15 @@
     "Room": "LB 101",
     "Group": "B",
     "classes": {
-      "7:30 8:20": "Logic Ckt (LB 101) RKP",
-      "8:20 9:10": "Logic Ckt (LB 101) RKP",
-      "9:10 10:00": "DSA (LB 101) GS",
+      "7:30 8:20": "Logic Ckt () RKP",
+      "8:20 9:10": "Logic Ckt () RKP",
+      "9:10 10:00": "DSA () GS",
       "10:00 10:50": "BREAK",
-      "10:50 11:40": "Network Theory (LB 101) BP",
-      "11:40 12:30": "DSA (LB 101) GS",
-      "12:30 1:20": "DSA (LB 101) GS",
-      "1:20 2:05": "EDC (LB 101) AY",
-      "2:05 2:50": "EDC (LB 101) AY"
+      "10:50 11:40": "Network Theory () BP",
+      "11:40 12:30": "DSA () GS",
+      "12:30 1:20": "DSA () GS",
+      "1:20 2:05": "EDC () AY",
+      "2:05 2:50": "EDC () AY"
     }
   },
   {
@@ -1410,15 +1410,15 @@
     "Room": "LB 102",
     "Group": "C",
     "classes": {
-      "7:30 8:20": "Network Theory (LB 102) BP",
-      "8:20 9:10": "Network Theory (LB 102) BP",
-      "9:10 10:00": "Logic Ckt (LB 102) DPG",
+      "7:30 8:20": "Network Theory () BP",
+      "8:20 9:10": "Network Theory () BP",
+      "9:10 10:00": "Logic Ckt () DPG",
       "10:00 10:50": "BREAK",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EDC (LB 102) AY ",
-      "12:30 1:20": "EDC (LB 102) AY ",
-      "1:20 2:05": "Math (LB 102) BPB",
-      "2:05 2:50": "Math (LB 102) BPB"
+      "11:40 12:30": "EDC () AY",
+      "12:30 1:20": "EDC () AY",
+      "1:20 2:05": "Math () BPB",
+      "2:05 2:50": "Math () BPB"
     }
   },
   {
@@ -1428,15 +1428,15 @@
     "Room": "LB 102",
     "Group": "D",
     "classes": {
-      "7:30 8:20": "Network Theory (LB 102) BP",
-      "8:20 9:10": "Network Theory (LB 102) BP",
-      "9:10 10:00": "Logic Ckt (LB 102) DPG",
+      "7:30 8:20": "Network Theory () BP",
+      "8:20 9:10": "Network Theory () BP",
+      "9:10 10:00": "Logic Ckt () DPG",
       "10:00 10:50": "BREAK",
       "10:50 11:40": "BREAK",
-      "11:40 12:30": "EDC (LB 102) AY ",
-      "12:30 1:20": "EDC (LB 102) AY ",
-      "1:20 2:05": "Math (LB 102) BPB",
-      "2:05 2:50": "Math (LB 102) BPB"
+      "11:40 12:30": "EDC () AY",
+      "12:30 1:20": "EDC () AY",
+      "1:20 2:05": "Math () BPB",
+      "2:05 2:50": "Math () BPB"
     }
   },
   {
@@ -1520,8 +1520,8 @@
     "classes": {
       "7:30 8:20": "Embedded System  [DPG] ",
       "8:20 9:10": "Embedded System  [DPG] ",
-      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
-      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
+      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
+      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "OOSE (L2) [MM]",
       "12:30 1:20": "OOSE (L2) [MM]",
@@ -1538,8 +1538,8 @@
     "classes": {
       "7:30 8:20": "Embedded System  [DPG] ",
       "8:20 9:10": "Embedded System  [DPG] ",
-      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
-      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
+      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
+      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "OOSE (L2) [MM]",
       "12:30 1:20": "OOSE (L2) [MM]",
@@ -1556,8 +1556,8 @@
     "classes": {
       "7:30 8:20": "Simulation and Modeling Lab 7 [SB][SK]",
       "8:20 9:10": "Simulation and Modeling Lab 7 [SB][SK]",
-      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
-      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
+      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
+      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Data Communication [AKJ ]",
       "12:30 1:20": "Data Communication [AKJ ]",
@@ -1574,8 +1574,8 @@
     "classes": {
       "7:30 8:20": "Data Communication (Lab 2 ) [AKJ][DD]",
       "8:20 9:10": "Data Communication (Lab 2 ) [AKJ][DD]",
-      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
-      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ",
+      "9:10 10:00": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
+      "10:00 10:50": "ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-",
       "10:50 11:40": "BREAK",
       "11:40 12:30": "Data Communication [AKJ ]",
       "12:30 1:20": "Data Communication [AKJ ]",

@@ -1,0 +1,134 @@
+Day            ,Batch Semester ,Room           ,Group          ,7:30 8:20      ,8:20 9:10      ,9:10 10:00     ,10:00 10:50    ,10:50 11:40    ,11:40 12:30    ,12:30 1:20     ,1:20 2:05      ,2:05 2:50      
+               ,               ,               ,               ,i              ,ii             ,iii            ,iv             ,v              ,vi             ,vii            ,viii           ,ix             
+               ,022 Comp II    ,LB 103         ,A              ,Algebra and Geometry (YRG) LB 103,               ,Instrumentation SuB LB 203,               ,BREAK          ,Applied Physics LB103 (RKB),               ,DSA Lab 7 GBK+JT
+Sunday         ,               ,               ,B              ,               ,               ,               ,               ,               ,               ,               ,Applied Chemistry Lab
+               ,               ,SC-2           ,C              ,DSA NPD-SC2    ,               ,OOP AG-SC2     ,               ,               ,DSA Lab 2 NPD+GBK,               ,Instumentation Lab SuB +
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,OOP Lab 6 AG+DKD,               ,Applied Physics Lab
+               ,"021 CMP
+III    ",LB 101         ,A              ,Logic Ckt (LB 101) RKP,               ,Math (LB 101) BPB,               ,BREAK          ,DSA (LB 101) GS,               ,EEM (LB 101) YRP
+               ,               ,               ,B              
+               ,               ,LB 102         ,C              ,EDC (LB 102) AY,DSA (LB 102) JT,Logic Ckt (LB 102) DPG,               ,               ,Network Theory (Lab) BP,               ,Math (LB 102) BPB/UB
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,DSA (Lab 4) JT + SuB
+               ,"020 CMP 
+ IV   ",LB 103         ,A              ,PT lab 1  [BM] [TCS],               ,PT [BM]        ,               ,BREAK          ,Microprocessor (P) [DKC],               ,DBMS  [AKJ]    
+               ,               ,               ,B              ,Microprocessor (P) [DKC],               ,               ,               ,               ,PT lab 1 [BM] [TCS] 
+               ,               ,LB 201         ,C              ,Math (L) BPB   ,               ,PT [KBS]       ,               ,               ,Instrumentation (L) [GA],               ,PT lab 1  [BM] [TCS]
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,               ,               ,DBMS (P) lab 3 [DKD] [DBD]
+               ,"019 CMP 
+ VI   ",LB 202         ,A              ,Simulation & Modeling  [SK ],               ,OOSE (L2) [MM] ,               ,BREAK          ,OOSE (Lab 3 ) [MM+IP],               ,Project        
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,Embedded System (Lab 7) [DPG]
+               ,               ,LB 204         ,C              ,Embedded System  [DPG],               ,Simulation & Modeling  [SB],               ,               ,Data Communication [ AKJ],               ,OOSE  [IP]     
+               ,               ,               ,D              
+               ,"018 CMP 
+ VIII ",LB 203         ,A              ,O&M  [DBD]     ,               ,"ELECTIVE [DRP-LB PR]
+DRP-EE",               ,BREAK          ,IS  [DRP]      ,SPIT (L1) [TRO],DSAP  [RDS]    
+               ,               ,               ,B              
+
+Monday         ,022 Comp II    ,               ,A              ,DSA GBK-LB 101 ,               ,Instrumentation Lab SuB,               ,BREAK          ,OOP TCS-LB 103 ,               ,OOP Lab 2 TCS+MM
+               ,               ,               ,B              ,               ,               ,OOP Lab 2 TCS+MM,               ,               ,               ,               ,DSA Lab 7 GBK+ 
+               ,               ,SC-2           ,C              ,Applied Chemistry SC-2,"Applied Physics 
+SC2 (YRP)",OOP AG-SC2     ,               ,BREAK          ,DSA Lab 2 NPD+ GBK,               ,Applied Chemistry Lab
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,OOP Lab 6 AG+DKD,               ,Instrumentation Lab SuB
+               ,"021 CMP
+III    ",LB 101         ,A              ,DSA (Lab 4) GS + JT,               ,Network Theory (LB 101) AS,               ,BREAK          ,Math (LB 101) BPB,               ,Logic Ckt (Lab) RKP
+               ,               ,               ,B              ,Network Theory (Lab) BP,               ,               ,               ,               ,               ,               ,DSA (Lab 4) GS+TRO
+               ,               ,LB 102         ,C              ,Math (LB 102) UB,               ,"
+EDC (LB 102 ) AY",               ,BREAK          ,EEM(LB 102) LNP,               ,DSA (LB 102) JT
+               ,               ,               ,D              
+               ,"020 CMP 
+ IV   ",LB 103         ,A              ,Microprocessor (L) [DKC],               ,Instrumentation (L) [GA],               ,BREAK          ,Instrumentation (P) [GA],               ,Math (L) DRP   
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,DBMS Lab 3 [AKJ] [DBD]
+               ,               ,LB 201         ,C              ,DBMS (L) [DKD] ,               ,DBMS lab 3 [DKD][DBD],               ,               ,Microprocessor (L) [DKC],               ,PT (L) [BM]    
+               ,               ,               ,D              ,               ,               ,PT lab 1 [KBS] [DD] 
+               ,"019 CMP 
+ VI   ",LB 202         ,A              ,Embedded System [DPG],               ,"ELECTIVE  
+[NPD-LB PR] [MRU-LB 201] 
+[BM-LB 202 ]",               ,BREAK          ,Simulation & Modeling  [SK],               ,Data Communication [DD]
+               ,               ,               ,B              
+               ,               ,LB 204         ,C              ,Simulation & Modeling  [SB],               ,               ,               ,               ,Embedded System (Lab 7) [DPG],               ,OOSE  [IP]     
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,OOSE (Lab 1 ) [IP][MM] 
+               ,"018 CMP 
+ VIII ",LB 203         ,A              ,"ELECTIVE [DRP]
+
+DRP-EE",               ,DSAP (lab 6) [RDS],               ,BREAK          ,IS (L1) [DRP]  ,               ,DSAP RDS       
+               ,               ,               ,B              ,               ,               ,IS (lab 7) [DRP][]
+
+Tuesday        ,022 Comp II    ,               ,A              ,DSA GBK LB 101 ,               ,OOP TCS LB 102 ,               ,BREAK          ,Algebra and Geometry (UB) LB 101,               ,DSA Lab 2 GBK+SuB
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,               ,               ,OOP Lab 1 TCS+AG
+               ,               ,SC-2           ,C              ,Algebra and Geometry (YRG) SC-2,               ,DSA NPD-SC-2   ,               ,BREAK          ,OOP Lab 3 AG+DKD,               ,Applied Physics Lab
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,DSA Lab 2 NPD+ GBK,               ,Applied Chemistry Lab
+               ,"021 CMP
+III    ",LB 101         ,A              ,Network Theory (Lab) BP,               ,Logic Ckt RKP (LB 101),EDC (LB 101) AY,BREAK          ,DSA (Lab 4) GS + JT,               ,EDC (Lab) AY   
+               ,               ,               ,B              ,EDC lab AY     ,               ,               ,               ,               ,Logic Ckt (Lab) RKP,               ,DSA (Lab 4) GS+JT
+               ,               ,LB 102         ,C              ,DSA (LB 102) JT,               ,DSA (Lab 4) JT + GBK,               ,               ,EEM (LB 102) YRP,               ,Network Theory BP,Logic Ckt DPG(LB 102)
+               ,               ,               ,D              ,               ,               ,Logic Ckt (Lab) DPG
+               ,"020 CMP 
+ IV   ",LB 103         ,A              ,Microprocessor (L) [DKC],               ,PT (L) [KBS]   ,               ,BREAK          ,DBMS [AKJ]     ,               ,Instrumentation (L1) [GA]
+               ,               ,               ,B              
+               ,               ,LB 201         ,C              ,PT lab 1  [KBS][SuB],               ,Math (L) DRP   ,               ,               ,Instrumentation (L) [GA],               ,Microprocessor (L) [DKC]
+               ,               ,               ,D              ,Instrumentation (P) [GA]
+               ,"019 CMP 
+ VI   ",LB 202         ,A              ,Embedded System  [DPG],               ,Simulation & Modeling (Lab 7) [SK][SB],               ,BREAK          ,Embedded System (Lab 7) [DPG],               ,Data Communication (L2) [DD]
+               ,               ,               ,B              ,               ,               ,OOSE (Lab 3 ) [MM][IP],               ,               ,Data Communication (Lab 1 ) [DD][]
+               ,               ,LB 204         ,C              ,OOSE  [IP]     ,               ,Data Communication [AKJ],               ,               ,Simulation & Modeling [SB],               ,Project        
+               ,               ,               ,D              
+               ,"018 CMP 
+ VIII ",LB 203         ,A              ,O&M (L2) [DBD] ,               ,"ELECTIVE[DRP]
+
+DRP-EE",               ,BREAK          ,DSAP (L2) [RDS],               ,SPIT (L2) [TRO]
+               ,               ,               ,B              
+
+Wednesday      ,022 Comp II    ,               ,A              ,Instrumentation  LB 204 SuB,Algebra (UB) LB 204,OOP Lab 1 TCS+AG,               ,BREAK          ,Applied Chemistry Lab,               ,"Applied Physics 
+LB 204 (YRP)","Applied Chemistry 
+LB 204"
+               ,               ,               ,B              ,               ,               ,DSA Lab 2 GBK+SuB,               ,               ,Applied Physics Lab
+               ,               ,SC-2           ,C              ,OOP Lab 4 AG+DKD,               ,"Applied Physics 
+SC-2 (LNP)","Applied Chemistry 
+SC-2",               ,Applied Chemistry SC-2,"Instrumentation 
+SuB SC-2",Algebra and Geometry (UB) SC-2
+               ,               ,               ,D              ,DSA Lab 2 NPD+ GBK
+               ,"021 CMP
+III    ",LB 101         ,A              ,EDC (LB 101) AY,               ,Math (LB 101) UB,               ,BREAK          ,EEM (LB 101) LNP,               ,Network Theory (LB 101) BP
+               ,               ,               ,B              
+               ,               ,LB 102         ,C              ,Network Theory (LB 102) BP,               ,DSA (Lab 4) JT + DD,               ,               ,Logic Ckt (Lab) RKP,               ,EDC lab AY     
+               ,               ,               ,D              ,               ,               ,EDC lab AY     ,               ,               ,Network Theory Lab BP,               ,DSA (Lab 4) JT + GBK
+               ,"020 CMP 
+ IV   ",LB 103         ,A              ,PT [BM]        ,PT (L) [KBS]   ,DBMS (L) [AKJ] ,Math (L) DRP   ,BREAK          ,Math (L) BPB   ,Microprocessor (L) [DKC],DBMS (Lab-3) [AKJ][DBD]
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,               ,               ,PT (Lab-1)  [KBS][TCS]
+               ,               ,LB 201         ,C              ,PT (L) [KBS]   ,PT [BM]        ,Instrumentation (L) [GA],               ,               ,Microprocessor (L) [DKC],DBMS (L) [DKD] ,               ,BREAK          
+               ,               ,               ,D              
+               ,"019 CMP 
+ VI   ",LB 202         ,A              ,OOSE (L2) [MM] ,               ,Simulation & Modeling  [SK],               ,BREAK          ,ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ],               ,Data Communication [DD]
+               ,               ,               ,B              
+               ,               ,LB 204         ,C              ,Data Communication (Lab 1) [AKJ][DD],               ,Embedded System  [DPG],               ,               ,               ,               ,OOSE (Lab 5) [IP][MM]
+               ,               ,               ,D              ,Simulation & Modeling (Lab 7) [SB][SK],               ,               ,               ,               ,               ,               ,Embedded System (Lab 7) [DPG]
+               ,"018 CMP 
+ VIII ",LB 203         ,A              ,DSAP (L2) [RDS],               ,IS (L2) [DRP]  ,               ,BREAK          ,SPIT (L2) [TRO],               ,IS (lab-2) [DRP+AG]
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,               ,               ,DSAP (lab-6) [RDS]
+
+Thursday       ,022 Comp II    ,               ,A              ,Basic Engineering Drawing ( JKT/PPA),               ,               ,"Applied Physics
+ LB 201 (LNP)",BREAK          ,Applied Physics Lab,               ,Applied Chemistry LB 203
+               ,               ,               ,B              ,Basic Engineering Drawing ( GSB/PB),               ,               ,               ,               ,Instrumentation Lab SuB
+               ,               ,SC-2           ,C              ,Applied Physics SC2 (RKB),               ,Instrumentation SuB SC2,               ,               ,"Algebra and Geometry
+ (UB)SC2",Basic Engineering Drawing ( JKT/PPA)
+               ,               ,               ,D              ,               ,               ,               ,               ,               ,               ,Basic Engineering Drawing ( GSB/ArS)
+               ,"021 CMP
+III    ",LB 101         ,A              ,Logic Ckt (LB 101) RKP,               ,DSA (LB 101) GS,BREAK          ,Network Theory (LB 101) BP,DSA (LB 101) GS,               ,EDC (LB 101) AY
+               ,               ,               ,B              
+               ,               ,LB 102         ,C              ,Network Theory (LB 102) BP,               ,Logic Ckt (LB 102) DPG,               ,BREAK          ,EDC (LB 102) AY ,               ,Math (LB 102) BPB
+               ,               ,               ,D              
+               ,"020 CMP 
+ IV   ",LB 103         ,A              ,PT (Lab-1) [KBS] [TCS],               ,DBMS (L) [AKJ] ,               ,BREAK          ,Math (L) BPB   ,               ,Instrumentation (L) [GA]
+               ,               ,               ,B              ,Instrumentation (P) [GA]
+               ,               ,LB 201         ,C              ,Math (L) BPB/DRP,               ,Instrumentation (P) [GA],               ,               ,Microprocessor (P) [DKC],               ,DBMS (L) [DKD] 
+               ,               ,               ,D              ,               ,               ,Microprocessor (P) [DKC],               ,               ,PT (P) Lab 1 [BM][DD]
+               ,"019 CMP 
+ VI   ",LB 202         ,A              ,Embedded System  [DPG] ,               ,ELECTIVE  [NPD-LB PR] [MRU-Lab 3] [BM-LB 202 ,               ,BREAK          ,OOSE (L2) [MM] ,               ,Data Communication (Lab 1) [DD][]
+               ,               ,               ,B              ,               ,               ,               ,               ,               ,               ,               ,Simulation & Modeling (Lab 2) [SK][SB]
+               ,               ,LB 204         ,C              ,Simulation and Modeling Lab 7 [SB][SK],               ,               ,               ,               ,Data Communication [AKJ ],               ,Embedded System [DPG]
+               ,               ,               ,D              ,Data Communication (Lab 2 ) [AKJ][DD]
+               ,"018 CMP 
+ VIII ",LB 203         ,A              ,O&M  [DBD]     ,               ,SPIT  [TRO]    ,               ,BREAK          ,IS (L2) [DRP]  ,               ,Project        
+               ,               ,               ,B              
+
+               ,               ,               ,               ,Electives for VIII Sem,Faculties      

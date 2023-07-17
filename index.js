@@ -2,14 +2,20 @@ const fs = require("fs");
 const csv = require("csv-parser");
 
 const rows = [];
+const rooms = [];
 
 fs.createReadStream("new_file.csv")
   .pipe(csv())
   .on("data", data => {
     rows.push(data);
+    const roomValue = data.Room.trim();
+    rooms.push(roomValue);
   })
   .on("end", () => {
-    console.log(rows);
+    // console.log(rows);
+
+    const uniqueRooms = Array.from(rooms);
+    const consolidatedRooms = consolidateRoomValues(uniqueRooms);
 
     const updatedRows = rows.map(row => {
       const newRow = { ...row };
@@ -28,12 +34,20 @@ fs.createReadStream("new_file.csv")
         }
       });
 
+      Object.keys(classes).forEach(classTime => {
+        const classDescription = classes[classTime];
+        consolidatedRooms.forEach(room => {
+          if (classDescription.includes(room)) {
+            classes[classTime] = classDescription.replace(room, "").trim();
+          }
+        });
+      });
+
       newRow.classes = classes;
 
       return newRow;
     });
 
-    console.log(updatedRows);
     const jsonContent = JSON.stringify(updatedRows, null, 2);
 
     fs.writeFile("output3.json", jsonContent, "utf8", err => {
@@ -44,3 +58,23 @@ fs.createReadStream("new_file.csv")
       }
     });
   });
+
+function consolidateRoomValues(rooms) {
+  const consolidated = [];
+
+  rooms.forEach(room => {
+    const existingRoom = consolidated.find(
+      r => r.replace(/\s+/g, "") === room.replace(/\s+/g, "")
+    );
+    if (existingRoom) {
+      const consolidatedRoom = existingRoom.includes(" ") ? existingRoom : room;
+      if (!consolidated.includes(consolidatedRoom)) {
+        consolidated.push(consolidatedRoom);
+      }
+    } else {
+      consolidated.push(room);
+    }
+  });
+
+  return consolidated;
+}
